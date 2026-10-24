@@ -42,7 +42,7 @@ from PySide6.QtGui import QFont, QIcon, QIntValidator
 # 应用信息（想改标题 / 版本 / 链接，只改这里）
 # ============================================================
 APP_NAME = "CloudFlare Scan"
-APP_VERSION = "V5.0"
+APP_VERSION = "V5.1"
 GITHUB_URL = "https://github.com/techiewmvp/CloudFlareScan"
 WARNING_TEXT = "⚠ 请关闭代理后使用本程序"
 
