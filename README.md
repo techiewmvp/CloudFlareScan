@@ -18,8 +18,7 @@ CloudFlareScan （简称CFS)  适配 Winows11
   <img src="images/screenshot-dark.png" width="380" alt="深色模式">
 </p>
 
-⚠️免责声明：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。
-
+⚠️免责声明：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。本项目Fork自[![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/releases) 由本人二次开发，如果有任何问题请在本项目下提交issues，原作者不对本项目负责。
 
 
 🚀 高效扫描：内置 CloudFlare 官方 CIDR 段生成 IP 地址 还可以导入自定义TXT格式的CIDR文件覆盖内置
