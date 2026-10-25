@@ -4,16 +4,15 @@
 [![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/releases)
 [![License](https://img.shields.io/github/license/xiaolin-007/CloudFlareScan?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/blob/main/LICENSE)
 
-CloudFlareScan （简称CFS)  适配 Win  macOS  Android  Linux
+CloudFlareScan （简称CFS)  适配 Winows11 
 
 
 
 ⚠️免责声明：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。
 
-<img width="611" height="476" alt="14eaeb7504c8db5685f261513fd8ecf2" src="https://github.com/user-attachments/assets/46976c98-f8ce-4d55-948b-05151c0f4d03" />
 
 
-🚀 高效扫描：自动从 CloudFlare 官方 IP 段生成 IP 地址
+🚀 高效扫描：内置 CloudFlare 官方 CIDR 段生成 IP 地址 还可以导入自定义TXT格式的CIDR文件覆盖内置
 
 📊 双模式测速：完全测速 + 地区测速，满足不同需求
 
@@ -29,17 +28,7 @@ CloudFlareScan （简称CFS)  适配 Win  macOS  Android  Linux
 
 win-X64 直接下载使用
 
-Android 直接下载安装  
 
-macOS arm 安装提前 需要将安全性与隐私里-选择允许从任何来源
-
-终端输入命令：sascript -e 'do shell script "sudo spctl --master-disable" with administrator privileges'
-
-Linux系统使用方法：解压后
-
-chmod +x CloudFlareScan
-
-./CloudFlareScan
 
 
 
