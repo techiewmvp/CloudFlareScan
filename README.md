@@ -36,7 +36,7 @@ CloudFlareScan （简称CFS)  适配 Winows11
 
 使用方法：
 
-CloudFlareScan.zip 直接下载使用
+CloudFlareScan-Windows.zip 直接下载使用
 
 
 
