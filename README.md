@@ -1,12 +1,15 @@
 # CloudFlareScan (ipv4&ipv6)  
 
 [![Downloads](https://img.shields.io/github/downloads/xiaolin-007/CloudFlareScan/total?style=flat-square&logo=github)](https://github.com/xiaolin-007/CloudFlareScan/releases)
-[![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/releases)
+[![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/techiewmp/CloudFlareScan/releases)
 [![License](https://img.shields.io/github/license/xiaolin-007/CloudFlareScan?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/blob/main/LICENSE)
 
 CloudFlareScan （简称CFS)  适配 Winows11 
 
-
+<p align="center">
+  <img src="images/screenshot-light.png" width="380" alt="浅色模式">
+  <img src="images/screenshot-dark.png" width="380" alt="深色模式">
+</p>
 
 ⚠️免责声明：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。
 
