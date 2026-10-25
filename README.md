@@ -1,9 +1,16 @@
 # CloudFlareScan (ipv4&ipv6)  
 
-[![Downloads](https://img.shields.io/github/downloads/xiaolin-007/CloudFlareScan/total?style=flat-square&logo=github)](https://github.com/xiaolin-007/CloudFlareScan/releases)
-[![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/techiewmvp/CloudFlareScan/releases/tag/v5.2)
-[![License](https://img.shields.io/github/license/xiaolin-007/CloudFlareScan?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/blob/main/LICENSE)
-
+<p align="center">
+  <a href="https://github.com/techiewmvp/CloudFlareScan/releases">
+    <img src="https://img.shields.io/github/downloads/techiewmvp/CloudFlareScan/total?logo=github&label=downloads&color=brightgreen" alt="downloads">
+  </a>
+  <a href="https://github.com/techiewmvp/CloudFlareScan/releases/latest">
+    <img src="https://img.shields.io/github/v/release/techiewmvp/CloudFlareScan?label=release&color=blue" alt="release">
+  </a>
+  <a href="https://github.com/techiewmvp/CloudFlareScan/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/techiewmvp/CloudFlareScan?label=license&color=green" alt="license">
+  </a>
+</p>
 CloudFlareScan （简称CFS)  适配 Winows11 
 
 <p align="center">
@@ -29,7 +36,7 @@ CloudFlareScan （简称CFS)  适配 Winows11
 
 使用方法：
 
-win-X64 直接下载使用
+CloudFlareScan.zip 直接下载使用
 
 
 
