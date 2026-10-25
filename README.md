@@ -1,7 +1,7 @@
 # CloudFlareScan (ipv4&ipv6)  
 
 [![Downloads](https://img.shields.io/github/downloads/xiaolin-007/CloudFlareScan/total?style=flat-square&logo=github)](https://github.com/xiaolin-007/CloudFlareScan/releases)
-[![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/techiewmp/CloudFlareScan/releases)
+[![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/techiewmvp/CloudFlareScan/releases/tag/v5.2)
 [![License](https://img.shields.io/github/license/xiaolin-007/CloudFlareScan?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/blob/main/LICENSE)
 
 CloudFlareScan （简称CFS)  适配 Winows11 
